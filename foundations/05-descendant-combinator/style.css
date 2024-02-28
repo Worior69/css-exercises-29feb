@@ -1,0 +1,23 @@
+
+/* combination of class and type selector */
+div .text {
+    background-color: yellow;
+    color: red;
+    font-size:20px ;
+    text-align: center;
+}
+/* with type selector */
+div {
+    background-color: yellow;
+    color: red;
+    font-size:20px ;
+    text-align: center;
+}
+
+/* with class selector */
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size:20px ;
+    text-align: center;
+}
